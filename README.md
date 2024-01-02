@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there, 👋 I'm Stephanie.
 
+I'm a full stack software engineer 👩‍💻 based in Chicago, IL. Prior to my career in Software Engineering, I was a Production Manager where my focus was overseeing budgets, schedules and communication of animated television programs. Now, I love to solve complex problems in the software engineering space.
+
+Recently, I created [Laridae](https://laridae-migrations.github.io/), an open-source, zero-downtime, reversible database schema migration tool for PostgreSQL integrated into a deployment pipeline hosted on GitHub Actions.
+
+Find out more:
+
+👉 [Laridae Case Study](https://laridae-migrations.github.io/)
+
+👉 [My Website](https://sgmccollom.github.io/)
 <!--
 **sgmccollom/sgmccollom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
